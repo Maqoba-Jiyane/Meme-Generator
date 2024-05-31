@@ -61,6 +61,7 @@ main {
 
 .meme {
   position: relative;
+  right: -25%;
 }
 
 .meme--image {
@@ -95,8 +96,10 @@ main {
 
 .bottom {
   bottom: 0;
+  left: 25%;
 }
 
 .top {
   top: 0;
+  left: 25%;
 }
